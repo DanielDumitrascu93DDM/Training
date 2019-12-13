@@ -13,5 +13,7 @@ int main() {
         printf("%c is a vowel.", c);
     else
         printf("%c is a consonant.", c);
+    
+    printf("Hello from DDM1");
     return 0;
 }

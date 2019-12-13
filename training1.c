@@ -8,7 +8,6 @@ int main() {
     // %c displays the actual character
     printf("ASCII value of %c = %d", c, c);
     printf("Hello from DDM1");
-    printf("Hello again from DDM1");
 
     return 0;
 }
