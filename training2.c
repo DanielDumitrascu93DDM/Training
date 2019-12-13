@@ -14,6 +14,7 @@ int main() {
     else
         printf("%c is a consonant.", c);
 
+    printf("Hello from DDM1");
     printf("Hello again from DDM2");
 
     return 0;
